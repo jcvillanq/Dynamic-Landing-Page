@@ -23,6 +23,7 @@ html {
       justify-content: center;
       height: 100vh;
       color: black;
+      background-size: cover;
 
   }
 
@@ -42,5 +43,5 @@ html {
       #time{
           font-size: 6rem;
       }
-      
+
   }
